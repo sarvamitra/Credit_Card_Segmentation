@@ -42,5 +42,5 @@ Advanced data preparation: Build an ‘enriched’ customer profile by deriving 
 - TENURE: Number of months as a customer
 
 #### DATA AVAILABLE:
-- credit-card-data.csv
-Please check the Visualization graphs here <a href="https://github.com/sarvesh757/Credit_Card_Segmentation/tree/main/Visualization">here</a>
+- credit-card-data.csv <a href="https://github.com/sarvesh757/Credit_Card_Segmentation/blob/main/credit-card-data.csv">here</a>
+- Please check the Visualization graphs here <a href="https://github.com/sarvesh757/Credit_Card_Segmentation/tree/main/Visualization">here</a>
