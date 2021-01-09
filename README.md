@@ -43,4 +43,4 @@ Advanced data preparation: Build an ‘enriched’ customer profile by deriving 
 
 #### DATA AVAILABLE:
 - credit-card-data.csv <a href="https://github.com/sarvesh757/Credit_Card_Segmentation/blob/main/credit-card-data.csv">here</a>
-- Please check the Visualization graphs here <a href="https://github.com/sarvesh757/Credit_Card_Segmentation/tree/main/Visualization">here</a>
+- Please check the Visualization graphs <a href="https://github.com/sarvesh757/Credit_Card_Segmentation/tree/main/Visualization">here</a>
